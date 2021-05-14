@@ -1,0 +1,3 @@
+[submodule "StatiqWebQuickStartWithCleanBlogTheme/theme"]
+	path = StatiqWebQuickStartWithCleanBlogTheme/theme
+	url = https://github.com/statiqdev/CleanBlog.git
