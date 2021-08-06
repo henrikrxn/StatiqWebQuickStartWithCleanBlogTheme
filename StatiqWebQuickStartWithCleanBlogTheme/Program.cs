@@ -12,7 +12,7 @@ namespace StatiqWebQuickStartWithCleanBlogTheme
           await Bootstrapper
             .Factory
             .CreateDefault(args)
-            .AddThemeFromUri(new Uri("https://github.com/statiqdev/CleanBlog/archive/ceb5055f3d0f7a330708494ed21eb469cde62ce2.zip"))
+            .AddThemeFromUri(new Uri("https://github.com/henrikrxn/CleanBlog/archive/6f00bf6d97dd8b4ead412da44880545d5df6ca75.zip"))
             .AddWeb()
             .RunAsync();
     }
